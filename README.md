@@ -74,3 +74,8 @@ Pick up coffee cups on your way to class, as the caffeine will give you a tempor
 
 Some levels have potholes or ditches that you can fall in. Falling will result in a time deduction from your remaining time.
 
+# Credits
+
+This game was made as a result of a team effort of 4 students during a 2-month agile development period for the Game Design course at William & Mary in Spring 2025. 
+
+**Developers:** Cassie Baker, Miles Saunders, Sam Brothers, Kornel Tyler
