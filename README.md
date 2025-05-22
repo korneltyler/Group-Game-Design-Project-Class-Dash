@@ -79,3 +79,5 @@ Some levels have potholes or ditches that you can fall in. Falling will result i
 This game was made as a result of a team effort of 4 students during a 2-month agile development period for the Game Design course at William & Mary in Spring 2025. 
 
 **Developers:** Cassie Baker, Miles Saunders, Sam Brothers, Kornel Tyler
+
+## My Contributions
