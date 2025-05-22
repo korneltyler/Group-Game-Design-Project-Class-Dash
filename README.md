@@ -81,3 +81,11 @@ This game was made as a result of a team effort of 4 students during a 2-month a
 **Developers:** Cassie Baker, Miles Saunders, Sam Brothers, Kornel Tyler
 
 ## My Contributions
+1) Created initial level designs
+2) Created sprites and tiles for game
+3) Created projectile class
+4) Created intial sprite and spritesheet classes
+5) Created and integrated Timer Class
+6) Created and integrated Enemy Class
+7) Create initila enemy projectiles
+8) Fix enemy player tracking bugs
